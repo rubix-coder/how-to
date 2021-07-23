@@ -1,5 +1,5 @@
 # how-to
-`Contains quick guide links/resources for software/OS installations`
+`Contains quick guide links/resources for software/OS/packages/libraries installations`
 
 - [ ] Download Virtual Box from [web](https://www.virtualbox.org/wiki/Downloads)
 - [ ] Download Ubuntu desktop from [web](https://ubuntu.com/download/desktop)
