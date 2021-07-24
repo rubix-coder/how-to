@@ -7,3 +7,4 @@
 
 - [ ] Setting [auto display resolution](https://www.youtube.com/watch?v=NET8kdsS_-A) for ubuntu - virtual box 
 - [ ] Installing [github desktop for linux](https://dev.to/danyson/how-to-install-github-desktop-for-ubuntu-debian-4hko)
+- [ ] Enabling [webcam](https://automaticaddison.com/connect-your-built-in-webcam-to-ubuntu-20-04-on-a-virtualbox/) in virtual box for ubuntu
